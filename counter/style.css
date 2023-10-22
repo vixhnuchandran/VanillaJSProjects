@@ -1,0 +1,25 @@
+
+body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1,#count {
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    
+}
+
+.button {
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    color: white;
+    width : 175px;
+    margin: 10px;
+    font-size: 30px;
+
+}
